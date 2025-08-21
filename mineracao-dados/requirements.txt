@@ -1,0 +1,5 @@
+simplejson==3.20.1
+python-youtube==0.9.7
+python-dotenv==1.1.1
+beautifulsoup4==4.13.4
+selenium==4.35.0
