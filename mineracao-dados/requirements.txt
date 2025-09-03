@@ -3,3 +3,9 @@ python-youtube==0.9.7
 python-dotenv==1.1.1
 beautifulsoup4==4.13.4
 selenium==4.35.0
+numpy==2.3.2
+pandas==2.3.2
+statsmodels==0.14.5
+scikit-learn==1.7.1
+matplotlib==3.10.5
+seaborn==0.13.2
